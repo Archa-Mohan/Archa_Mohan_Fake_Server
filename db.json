@@ -125,13 +125,6 @@
       "price": 8,
       "setDate": "2023-03-01",
       "id": 18
-    },
-    {
-      "payeeName": "Ramesh",
-      "product": "100 eggs",
-      "price": 100,
-      "setDate": "2023-05-27",
-      "id": 19
     }
   ]
 }
